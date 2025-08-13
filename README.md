@@ -1,4 +1,4 @@
-# Hey — I'm **@jj3301**
+# Hey — I'm **jj3301**
 ### Full-Stack Dev • AI Whisperer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&duration=2500&pause=800&color=7F56D9&center=true&vCenter=true&width=650&lines=Building+scalable+systems.;Shipping+clean+code.;Making+AI+that+actually+works.)
