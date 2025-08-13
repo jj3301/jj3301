@@ -28,4 +28,4 @@
 
 ---
 
-**Now:** experimenting with generative models + infra automation — expect weird projects and clean code. 🦄
+**Now:** exploring generative models and infrastructure automation, focusing on building useful, well-crafted tools.
