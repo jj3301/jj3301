@@ -17,8 +17,27 @@
 - Passionate about clean, maintainable code and smooth developer workflows.  
 - Always exploring new tech and improving my craft.
 
+---
+
 ## 🛠 Skills
-`JavaScript` `PHP` `Python` `React` `TailWind` • `CSS` `HTML`...
+
+<!-- Skills Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Code-PHP-777BB4?style=for-the-badge&logo=php">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss">
+  <img src="https://img.shields.io/badge/Frontend-Vite-646CFF?style=for-the-badge&logo=vite">
+  <img src="https://img.shields.io/badge/Frontend-HTML-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/Frontend-CSS-1572B6?style=for-the-badge&logo=css3">
+</p>
+
+<!-- Sakura Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/k-sato1995/Anime-Linebreak/master/images/linebreak-sakura.gif" width="80%">
+</p>
+
 
 ---
 
